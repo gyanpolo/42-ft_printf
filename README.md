@@ -31,8 +31,8 @@ Cada uno de estos especificadores debe ser interpretado correctamente y sin caus
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com//ft_printf.git
-    cd ft_printf
+    git clone https://github.com/gyanpolo/42-ft_printf.git
+    cd 42-ft_printf
     ```
 
 2. Compila el proyecto:
